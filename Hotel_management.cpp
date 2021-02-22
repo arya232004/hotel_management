@@ -14,12 +14,6 @@ class info
             cout<<"\n\t\t\t****************************";
             cout<<"\n\t\t\t* HOTEL MANAGEMENT PROJECT *";
             cout<<"\n\t\t\t****************************";
-            cout<<"\n\n\t\tDeveloped By:";
-            cout<<"group 7";
-            cout<<"\n\n                 25-Siddhesh Kadam";
-            cout<<"\n                 26-Rohan Hanmante";
-            cout<<"\n                 27-Arya Nikale";
-            cout<<"\n                 28-Jhanvi Khot";
             cout<<"\n\n\n\n\n\n\n\t\t\t\t\tPress any key to continue....!!";
             getch();
             }
